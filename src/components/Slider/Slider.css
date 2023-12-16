@@ -1,0 +1,128 @@
+
+.igg {
+    width: auto;
+    height: 100vh;
+}
+
+
+.item {
+    position: absolute;
+    left: 0;
+    top:0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.256);
+
+}
+
+
+.itemmm {
+    font-size: 4vw;
+    position: absolute;
+    top: 30%;
+    left: 15%;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 500;
+
+}
+
+.itemmm2 {
+    font-size: 1.5vw;
+    position: absolute;
+    top: 44%;
+    left: 20%;
+    font-family: 'Oswald', sans-serif;
+    font-family: 300;
+
+}
+
+.itemmm3 {
+    font-size: 1.5vw;
+    position: absolute;
+    top: 44%;
+    left: 35%;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+}
+
+.itemmm4 {
+    font-size: 1vw;
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+}
+
+.itemmm5 {
+    font-size: 6vw;
+    position: absolute;
+    top: 27%;
+    right:20%;
+}
+
+.itemmm5 a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.itemmm6 {
+    font-size: 3.5vw;
+    position: absolute;
+    top: 45%;
+    right:14%;
+}
+
+.itemmm6 a{
+  text-decoration: none;
+  color: white;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 300;
+}
+
+.itemmm7 {
+    font-size: 4vw;
+    position: absolute;
+    top: 30%;
+    left: 26%;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 500;
+
+}
+.itemmm8 {
+    font-size: 4vw;
+    position: absolute;
+    top: 30%;
+    left: 19%;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 500;
+
+}
+
+.itemmm9 {
+    font-size: 1vw;
+    position: absolute;
+    top: 50%;
+    left: 17%;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+
+}
+
+.itemmm10 {
+    font-size: 1vw;
+    position: absolute;
+    top: 50%;
+    left: 12%;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+
+}
+
+
+@media screen and (max-width:950px) {
+    #carouselExampleIndicators{
+        width: 100%;
+        height: 50%;
+    }
+}

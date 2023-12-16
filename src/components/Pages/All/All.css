@@ -1,0 +1,66 @@
+.allsie {
+    display: flex;
+    flex-wrap: wrap;
+    color: whitesmoke;
+    margin-bottom: 4rem;
+    align-items: center;
+    justify-content: center;
+}
+
+.allsie2 img {
+    width: 30rem;
+    padding: 2rem;
+    margin-top: -1rem;
+    margin-bottom: 2rem;
+}
+
+.allsie2 img:hover {
+    transform: translateY(2%);
+    transition: .5s ease-in-out;
+    background: rgba(0, 0, 0, 0.42);
+    box-shadow: 4px 4px 25px 0px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: 4px 4px 25px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 4px 4px 25px 0px rgba(0, 0, 0, 0.75);
+
+}
+
+.allsie_cap {
+    margin-left: 8rem;
+    justify-self: center;
+    margin-top: 1rem;
+    cursor: default;
+}
+
+.apr {
+    margin-left: 56rem;
+    margin-top: 5rem;
+    text-decoration: underline;
+    color: white;
+    font-family: oswald;
+    font-weight: 500;
+
+}
+
+.allsie2 {
+    border: 1px solid whitesmoke;
+    margin: 2rem;
+    justify-content: center;
+}
+
+.allsie2:hover {
+    background-color: white;
+    color: black;
+    transition: .2s ease-in-out;
+    border: 6px solid red;
+}
+
+.hovv:hover {
+   
+    transition: .5s ease-in-out;
+    transform: scale(0.9);
+}
+
+.allsie2 a{
+    color: red;
+    text-decoration: none;
+}

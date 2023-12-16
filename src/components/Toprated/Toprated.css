@@ -1,0 +1,88 @@
+
+.top_bg{
+    position: relative;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 500;
+    background-color: black;
+    padding-bottom: 4rem;
+    margin-top: 10rem;
+    width: 100%;
+    margin-left: 5rem;
+}
+
+.top_new{
+    display: flex;
+    justify-content: space-between;
+    color: whitesmoke;
+    font-size: 3vw;
+    margin-bottom: -20px;
+}
+
+.top_new a{
+    text-decoration: none;
+}
+
+.more{
+    
+    font-size: 2vw;
+    padding-top: 3rem;
+    text-decoration: none;
+    color: red;
+}
+
+.top_new p{
+    margin-left: 2vw;
+}
+
+.top_bg hr{
+    color: whitesmoke;
+}
+
+.tp_pos img{
+    width: 20rem;
+    height: 34rem;
+    margin-right: 5.5rem;
+    border-radius: 10px;
+}
+
+.tp_pos img:hover{
+    cursor: default;
+}
+
+.tp_pos{
+    position: relative;
+    display: flex;
+    width: 100%;
+    margin-left: 1rem;
+}
+
+.tp_pos2{
+    display: flex;
+    padding-right: 25px;
+    max-width: 100%;
+}
+
+.tp_pos2 h4{
+    position: absolute;
+    color: whitesmoke;
+    text-decoration: underline;
+    margin-left: 7rem;
+    padding-right: 50px;
+    margin-top: 10px;
+    font-size: 1.3vw;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+    top: 35rem;
+}
+
+
+.tp_pos2 a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.tp_pos2 a:hover{
+    cursor: default;
+}
+
+

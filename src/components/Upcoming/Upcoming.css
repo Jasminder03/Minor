@@ -1,0 +1,113 @@
+
+.up_bg{
+    position: relative;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 500;
+    background-color: black;
+    padding-bottom: 4rem;
+    margin-top: 10rem;
+    width: 100%;
+    margin-left: 5rem;
+}
+
+.up_new{
+    display: flex;
+    justify-content: space-between;
+    color: whitesmoke;
+    font-size: 3vw;
+    margin-bottom: -20px;
+}
+
+.more{
+    margin-right: 2rem;
+    font-size: 2vw;
+    margin-top: -1.5rem;
+    text-decoration: none;
+    color: red;
+}
+
+.more:hover{
+    text-decoration: none;
+    color: red;
+}
+
+.up_new p{
+    margin-left: 2vw;
+}
+
+.up_bg hr{
+    color: whitesmoke;
+}
+
+.poster img{
+    width: 20rem;
+    height: 34rem;
+    margin-right: 5.5rem;
+    border-radius: 10px;
+}
+
+.poster img:hover{
+    cursor: default;
+}
+
+.poster{
+    position: relative;
+    display: flex;
+    width: 100%;
+    margin-left: 1rem;
+}
+
+.poster2{
+    display: flex;
+    padding-right: 25px;
+    max-width: 100%;
+}
+
+.poster2 h4{
+    position: absolute;
+    color: whitesmoke;
+    text-decoration: underline;
+    margin-left: 7rem;
+    padding-right: 50px;
+    margin-top: 10px;
+    font-size: 1.3vw;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+    top: 35rem;
+}
+
+.poster2 a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.poster2 a{
+    cursor: default;
+}
+
+.up_new a{
+    text-decoration: none;
+}
+
+@media screen and (max-width:950px) {
+    .up_bg{
+        width: 60%;
+        overflow-x: hidden;
+    }
+
+    .poster{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .poster img{
+        margin-bottom: 3rem;
+    }
+
+    .poster2 h4{
+        display: flex;
+        justify-content: space-between;
+    }
+    
+}
+

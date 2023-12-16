@@ -1,0 +1,92 @@
+
+.navbar-brand{
+    padding-right: 25rem;
+    margin-left: -120px;
+    margin-bottom: 10px;
+}
+
+.bg{
+    background-color: black;
+}
+.ig{
+    width: 400px;
+    height: 90px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+
+.navbar-light .navbar-nav .nav-link{
+    color: white;
+    padding-left: 10px;
+}
+
+.navbar-toggler{
+    margin-left: 10px;
+}
+.navbar-light .navbar-toggler{
+    background-color: white;
+}
+
+
+
+.nav-link{
+    margin-right: 3rem;
+}
+
+.bt{
+    background-color: red;
+    border: none;
+    padding: 5px;
+    border-radius: 5px ;
+}
+
+.navbar-light .navbar-nav .nav-link:visited{
+    color: whitesmoke;
+}
+
+
+.no_link{
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.no_link:hover{
+    text-decoration: none;
+    color:red;
+
+}
+
+.namee{
+    color: whitesmoke;
+    font-size: 2vw;
+    font-family: 'oswald';
+    font-weight: 300;
+    margin-top: -0.7rem;
+}
+
+.namee:visited{
+    color: red;
+}
+
+.no_link2{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.no_link2:hover{
+    color: red;
+    text-decoration: underline;
+    transition: 0.2s ease-in-out;
+}
+
+
+.no-link:hover{
+    color: red;
+    text-decoration: underline;
+    
+}
+
+.dropdown-toggle{
+    color: red;
+}

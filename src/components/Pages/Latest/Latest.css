@@ -1,0 +1,61 @@
+.nig {
+    display: flex;
+    flex-wrap: wrap;
+    color: whitesmoke;
+    margin-bottom: 4rem;
+    align-items: center;
+    justify-content: center;
+}
+
+.nigga img {
+    width: 30rem;
+    padding: 2rem;
+    margin-top: -1rem;
+    margin-bottom: 2rem;
+}
+
+.nigga img:hover {
+    transform: translateY(2%);
+    transition: .5s ease-in-out;
+    background: rgba(0, 0, 0, 0.42);
+    box-shadow: 4px 4px 25px 0px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: 4px 4px 25px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 4px 4px 25px 0px rgba(0, 0, 0, 0.75);
+
+}
+
+.nigg_inner {
+    margin-left: 8rem;
+    justify-self: center;
+    margin-top: 1rem;
+    cursor: default;
+}
+
+.npr {
+    margin-left: 53rem;
+    margin-top: 5rem;
+    text-decoration: underline;
+    color: white;
+    font-family: oswald;
+    font-weight: 500;
+
+}
+
+.nigga {
+    border: 1px solid whitesmoke;
+    margin: 2rem;
+    justify-content: center;
+}
+
+.nigga:hover {
+    background-color: white;
+    color: black;
+    transition: .2s ease-in-out;
+    border: 6px solid red;
+}
+
+.nig_in:hover {
+   
+    transition: .5s ease-in-out;
+    transform: scale(0.9);
+}

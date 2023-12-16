@@ -1,0 +1,57 @@
+form{
+    font-family: oswald;
+    font-weight: 500;
+}
+
+.this label{
+    color: whitesmoke;
+    font-size: 2vw;
+}
+
+.area{
+    background-color: transparent;
+    border-radius: 5px;
+    color: whitesmoke;
+    margin: 2rem;
+    width: 30rem;
+    height: 40vh;
+    border: 2px solid white;
+}
+
+.this input[type="textarea"]{
+    padding-bottom: 18rem;
+    font-size: 1.5vw;
+}
+
+.this input::placeholder{
+    color: whitesmoke;
+    font-size: 1.5vw;
+}
+
+.btt{
+    background-color: red;
+    color: black;
+    border-radius: 10px;
+    border: none;
+    font-size: 1.7vw;
+
+}
+
+.this h2{
+    display: block;
+    color: whitesmoke;
+    font-family: oswald;
+    font-family: 500;
+    margin-top: 1rem;
+}
+
+.user{
+    width: 25rem;
+    height: 7vh;
+    background-color: transparent;
+    border: 2px solid white;
+    border-radius: 5px;
+    color: whitesmoke;
+    font-size: 1.5vw;
+}
+

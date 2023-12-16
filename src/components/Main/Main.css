@@ -1,0 +1,146 @@
+
+
+
+.right{
+    display: flex;
+    flex-direction: row;
+}
+.coll {
+    margin-top: 15rem;
+    height: 55rem;
+}
+
+.watch h1{
+    font-size: 5vw;
+    cursor: default;
+    margin-left: 2rem;
+    color: whitesmoke;
+    padding-top: 2rem;
+    cursor: default;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 500;
+}
+
+.left {
+    float: left;
+    width: 40%;
+    margin-top: 120px;
+}
+
+
+
+.watch h1:hover{
+    transform: rotateY(360deg);
+    transition: 1s ;
+    cursor: pointer;
+    color: red;
+    cursor: default;
+}
+
+
+
+.icon {
+    font-size: 80px;
+    border: 2px solid black;
+    border-radius: 50%;
+    padding: 5px;
+    margin: 5px;
+    background-color: white;
+}
+
+.card_titu {
+    font-size: 40px;
+    margin-top: 0px;
+    margin-left: 10px;
+    margin-bottom: 1.5rem;
+}
+
+#tex {
+    font-size: 1vw;
+    margin-top: -4%;
+    margin-left: 10px;
+    padding-right: 5px;
+}
+
+.rap{
+    
+    float: right;
+    background-color: #a9a9a977;
+    width: fit-content;
+    border-radius: 10px;
+    color: whitesmoke;
+    cursor: default;
+    position: relative;
+    margin-left: 2rem;
+}
+
+.cardd{
+    padding-bottom: 2px;
+}
+
+.rapp{
+    float: left;
+    margin-top: 4rem;
+    background-color: #a9a9a977;
+    width: fit-content;
+    border-radius: 10px;
+    color: whitesmoke;
+    cursor: default;
+}
+
+.rappp{
+    float: right;
+    margin-top: 4rem;
+    background-color: #a9a9a977;
+    width: fit-content;
+    border-radius: 10px;
+    color: whitesmoke;
+    cursor: default;
+    position: relative;
+}
+
+.icon2 {
+    font-size: 80px;
+    border: 2px solid black;
+    border-radius: 50%;
+    padding: 5px;
+    margin: 5px;
+    color: red;
+    background-color: white;
+}
+
+.rap:hover{
+    transform: scale(1.1);
+    border: 5px solid black;
+    transition: 0.5s ease-in-out;
+    cursor: default;
+}
+.rapp:hover{
+    transform: scale(1.1);
+    border: 5px solid black;
+    transition: 0.5s ease-in-out;
+    cursor: default;
+}
+.rappp:hover{
+    transform: scale(1.1);
+    border: 5px solid black;
+    transition: 0.5s ease-in-out;
+    cursor: default;
+}
+
+.ra{
+    background-color:  #a9a9a977;
+    float: left;
+    border-radius: 10px;
+    cursor: default;
+    color:whitesmoke;
+    margin-left: 1rem;
+}
+
+.ra:hover{
+    transform: scale(1.1);
+    border: 5px solid whitesmoke;
+    transition: 0.5s ease-in-out;
+    cursor: default;
+}
+

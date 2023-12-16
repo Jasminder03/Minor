@@ -1,0 +1,115 @@
+
+
+.w_full{
+    display: flex;
+    margin-bottom: 4rem;
+    margin-top: 4rem;
+}
+
+.w_full2{
+    display: flex;
+    color: whitesmoke;
+}
+
+.null{
+    padding-right: 8rem;
+    color: white;
+    list-style-type: none;
+    padding-left: 10rem;
+}
+
+.null a{
+    text-decoration: none;
+    color: whitesmoke;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+    font-size: 1.5vw;
+  
+}
+
+
+.titu{ 
+    font-family: 'Oswald', sans-serif;
+    font-weight: 500;
+    padding-left: 10rem;
+    font-size: 2vw;
+    cursor: default;
+}
+
+.titu2{ 
+    font-family: 'Oswald', sans-serif;
+    font-weight: 500;
+    padding-left: 10rem;
+    font-size: 2vw;
+    cursor: default;
+}
+
+.titu3{ 
+    font-family: 'Oswald', sans-serif;
+    font-weight: 500;
+    padding-left: 9rem;
+    font-size: 2vw;
+    cursor: default;
+    padding-right: 2rem;
+}
+
+.null2{
+    color: white;
+    list-style-type: none;
+    padding-left: 10.2rem;
+    
+}
+
+.null2 a{
+    text-decoration: none;
+    color: whitesmoke;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+    font-size: 1.5vw;
+  
+}
+
+.comp{
+    align-items: flex-end;
+    display: flex;
+    margin-bottom: 2rem;
+    margin-left: -10em;
+
+}
+
+.com{
+    margin-top: 13rem;
+    display: flex;
+   color: whitesmoke;
+   padding-left: 10rem;
+
+}
+
+.comp a{
+    text-decoration: none;
+    color: whitesmoke;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 500;
+    font-size: 1.5vw; 
+    margin-right: -10rem;
+}
+
+.compy{
+    display: flex;
+    margin-top: 6rem;
+    
+}
+
+.compy a{
+    
+    color: whitesmoke;
+    font-size: 1.2vw;
+    margin-left: 0.5rem;
+}
+
+.khs{
+    border-bottom: 2px solid white;
+    border-top: 2px solid white
+}
+
+

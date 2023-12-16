@@ -1,0 +1,24 @@
+.pagi{
+    display: block;
+    align-items: center;
+    justify-content: center;
+    padding-left: 52rem;
+}
+
+.pagi2 button{
+    font-size: 1.5vw;
+    width: 3.5rem;
+    color: whitesmoke;
+    background-color: black;
+    border: 1px solid whitesmoke;
+    margin-right: 2rem;
+}
+
+.pagi2 button:focus{
+    background-color: white;
+    color: #000;
+}
+
+
+
+
